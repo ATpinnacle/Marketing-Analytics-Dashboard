@@ -1,6 +1,6 @@
 # Marketing Analytics Dashboard
 
-This repository contains a project focused on creating a **Marketing Analytics Dashboard** to analyze customer engagement, conversion rates, and feedback for optimizing marketing strategies. 
+This repository contains a guided project focused on creating a **Marketing Analytics Dashboard** to analyze customer engagement, conversion rates, and feedback for optimizing marketing strategies. 
 
 ## Overview
 
