@@ -72,7 +72,6 @@ The objective was to conduct a detailed analysis and provide actionable insights
 ## Future Scope
 
 - Automate regular updates of the dashboard with new data.
-- Incorporate advanced machine learning models for predictive analytics.
 - Expand KPIs to include customer lifetime value and churn rates.
 
 ---
