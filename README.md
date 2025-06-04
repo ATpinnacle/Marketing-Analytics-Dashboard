@@ -33,9 +33,17 @@ The objective was to conduct a detailed analysis and provide actionable insights
 3. **Data Modelling and Dashboard Creation**
    - Built comprehensive data models in **Power BI**, connecting multiple tables using relationships and applying **DAX measures** to calculate advanced metrics.
    - Visualized data relationships and dependencies through a structured model, as shown in the relational diagram.
+     ![image](https://github.com/user-attachments/assets/757b9966-def9-4798-8df5-65b8ce1c8db6)
+
 
 4. **Data Visualization**
    - Designed an **interactive dashboard** in **Power BI** to visualize KPIs and highlight trends for improved decision-making.
+     ![image](https://github.com/user-attachments/assets/d3c1aa8e-eb3b-4b6f-b83a-1e53531a8eca)
+     ![image](https://github.com/user-attachments/assets/dc630cee-2602-4b9f-9afa-c31f50def787)
+     ![image](https://github.com/user-attachments/assets/d83ada73-d18d-4b34-8a7f-bdcc54bb18bf)
+     ![image](https://github.com/user-attachments/assets/6f358c8f-5759-45ae-a160-2cbf7b2af226)
+     ![image](https://github.com/user-attachments/assets/9477f373-9b9b-40f4-a146-7c29c05624d3)
+
 
 ## Purpose and Impact
 
