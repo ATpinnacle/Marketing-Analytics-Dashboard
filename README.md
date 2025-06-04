@@ -6,6 +6,7 @@ This repository contains a project focused on creating a **Marketing Analytics D
 
 ### Business Problem
 An online retail business, faced the following challenges:
+
 - **Reduced Customer Engagement**: Declining interactions with the site and marketing content.
 - **Decreased Conversion Rates**: Fewer visitors converting into paying customers.
 - **High Marketing Expenses**: Increased investment in campaigns not yielding expected returns.
