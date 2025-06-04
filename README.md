@@ -5,7 +5,7 @@ This repository contains a project focused on creating a **Marketing Analytics D
 ## Overview
 
 ### Business Problem
-An online retail business, faced the following challenges:
+ShopEasy, an online retail business, faced the following challenges:
 - **Reduced Customer Engagement**: Declining interactions with the site and marketing content.
 - **Decreased Conversion Rates**: Fewer visitors converting into paying customers.
 - **High Marketing Expenses**: Increased investment in campaigns not yielding expected returns.
@@ -29,7 +29,11 @@ The objective was to conduct a detailed analysis and provide actionable insights
      - **nltk** for text preprocessing and sentiment scoring.
      - **pyodbc** for database connectivity.
 
-3. **Data Visualization and Dashboard Creation**
+3. **Data Modelling and Dashboard Creation**
+   - Built comprehensive data models in **Power BI**, connecting multiple tables using relationships and applying **DAX measures** to calculate advanced metrics.
+   - Visualized data relationships and dependencies through a structured model, as shown in the relational diagram.
+
+4. **Data Visualization**
    - Designed an **interactive dashboard** in **Power BI** to visualize KPIs and highlight trends for improved decision-making.
 
 ## Purpose and Impact
@@ -44,13 +48,17 @@ The objective was to conduct a detailed analysis and provide actionable insights
 
 - **SQL**: Data transformation and cleaning.
 - **Python**: Sentiment analysis using nltk and database handling with pyodbc.
-- **Power BI**: Data visualization and dashboard creation.
+- **Power BI**: Data visualization, data modelling, and dashboard creation.
+- **DAX (Data Analysis Expressions)**: Calculating advanced measures and metrics.
 
 ## How It Was Made
 
 - Cleaned raw datasets using **SQL**, structuring them for analysis.
 - Extracted insights from customer feedback through **sentiment analysis** using **Python**.
-- Built an **interactive Power BI dashboard** to visualize KPIs, enabling stakeholders to make data-driven decisions efficiently.
+- Built an **interactive Power BI dashboard** by:
+  - Creating relational data models to connect multiple datasets.
+  - Using **DAX measures** to compute advanced metrics.
+  - Designing visualizations to track KPIs and trends, enabling stakeholders to make data-driven decisions efficiently.
 
 ## Future Scope
 
@@ -59,4 +67,6 @@ The objective was to conduct a detailed analysis and provide actionable insights
 - Expand KPIs to include customer lifetime value and churn rates.
 
 ---
-Thanks for reading!
+
+This project demonstrates the effective use of data analytics tools and techniques to solve real-world marketing challenges and drive business growth.
+
